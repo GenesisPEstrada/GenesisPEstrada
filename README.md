@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GenesisPEstrada/GenesisPEstrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ... Cyber Sercurity or Networking pathway
 - 🌱 I’m currently learning ... HTML
 - 👯 I’m looking to collaborate on ... Future projects
