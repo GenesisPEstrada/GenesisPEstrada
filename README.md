@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on ... Cyber Sercurity or Networking pathway
 - 🌱 I’m currently learning ... HTML
